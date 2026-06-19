@@ -1,0 +1,6 @@
+{
+  "name": "Launcher iOS",
+  "description": "A high-fidelity iOS launcher clone for Android featuring multi-page home grids, Spotlight Search, custom widgets, Control Center, Assistive Touch, App Library, and custom wallpaper configurations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
